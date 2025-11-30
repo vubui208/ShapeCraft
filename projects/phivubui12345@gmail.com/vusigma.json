@@ -1,0 +1,26 @@
+{
+  "objects": [
+    {
+      "kind": "shape",
+      "type": "square",
+      "x": -181.0,
+      "y": 6.0,
+      "size": 100.0,
+      "fill_color": "red",
+      "pen_color": "black",
+      "pen_thickness": 2,
+      "heading": 0
+    },
+    {
+      "kind": "shape",
+      "type": "square",
+      "x": 265.0,
+      "y": 7.0,
+      "size": 20.0,
+      "fill_color": "blue",
+      "pen_color": "red",
+      "pen_thickness": 3,
+      "heading": 0
+    }
+  ]
+}

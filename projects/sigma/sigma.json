@@ -1,0 +1,15 @@
+{
+  "objects": [
+    {
+      "kind": "shape",
+      "type": "square",
+      "x": 1.0,
+      "y": 1.0,
+      "size": 100.0,
+      "fill_color": "#ff000c",
+      "pen_color": "green",
+      "pen_thickness": 3,
+      "heading": 0
+    }
+  ]
+}
